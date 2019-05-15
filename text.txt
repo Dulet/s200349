@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 MOJE HOBBY
 biking
 my hobby is biking 2
+=======
+asdasasg asd 
+>>>>>>> modyfikacja
